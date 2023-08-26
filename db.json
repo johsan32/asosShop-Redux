@@ -1,0 +1,18 @@
+{
+  "basket": [
+    {
+      "id": "136e89ed-a263-4fd3-a65e-8199dba21be5",
+      "name": "lili",
+      "price": 100,
+      "amount": 5,
+      "image": "images"
+    },
+    {
+        "id": "136e89ed-a263-4fd3-a65e-8199dba21be5",
+        "name": "lili",
+        "price": 100,
+        "amount": 5,
+        "image": "images"
+      }
+  ]
+}
